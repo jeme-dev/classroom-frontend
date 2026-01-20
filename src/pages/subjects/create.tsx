@@ -2,7 +2,7 @@ import React from 'react'
 
 const SubjectsCreate = () => {
   return (
-    <div>crea SubjectsC</div>
+    <div>create SubjectsC</div>
   )
 }
 
